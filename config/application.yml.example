@@ -1,2 +1,5 @@
 kafka_host: "localhost:9092"
 kafka_topic: "learning-kafka"
+kafka_client_key: "kafka_client_key"
+kafka_client_cert: "kafka_client_cert"
+kafka_ca_cert: "kafka_ca_cert"
